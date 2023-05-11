@@ -42,4 +42,6 @@ As it is now, if you were to try starting the server it will not work because of
 
 Be sure to set the permissions to public before you start or else nobody will be able to join. The "Enable Microphone" button has been replaced by the mod as the "Start the Game" button, which can be misleading so I've outlined it below.
 
+It's not pictured, but once you select "Start Game" it will prompt you with a list of (empty) servers, of which you must pick the Lethal Injection server. If it's not empty, or you're not in the steam group, it will not show up in this list.
+
 ![Step 9](./pics/step9.png)
